@@ -1,4 +1,4 @@
-# Investing Screener
+# Investment Screener
 
    Quantitative stock screener for momentum-based trading strategies.
 
@@ -26,7 +26,7 @@
 
    ```bash
    # Clone repository
-   git clone https://github.com/forgion/investing-screener.git
+   git clone https://github.com/forgion/investment-screener.git
    cd investing-screener
 
    # Create virtual environment
